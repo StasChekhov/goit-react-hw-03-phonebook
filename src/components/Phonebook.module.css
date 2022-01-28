@@ -1,0 +1,22 @@
+.mainDiv {
+  width: 400px;
+  height: 200px;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  margin: 10px 10px;
+}
+.input {
+  width: 200px;
+  margin: 0 10px;
+}
+.button {
+  height: 25px;
+  background-color: azure;
+  margin: 15px 10px;
+}
